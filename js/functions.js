@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 function checkStringLength(string, maxLength) {
   return string.length <= maxLength;
 }
